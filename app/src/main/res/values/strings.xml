@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Digital Clock</string>
+    <string name="current_time">Current Time</string>
+    <string name="current_date">Current Date</string>
+    <string name="new_york_time_label">New York Time:</string>
+    <string name="london_time_label">London Time:</string>
+    <string name="tokyo_time_label">Tokyo Time:</string>
+    <string name="paris_time_label">Paris Time:</string>
+    <string name="sydney_time_label">Sydney Time:</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="show_calendar">Show Calendar</string>
+    <string name="toggle_dark_mode">Toggle Dark Mode</string>
+    <string name="welcome_to_digital_clock">Welcome to Digital Clock</string>
+    <string name="start">Start</string>
+    <string name="let_s_go">Let\'s Go</string>
+</resources>
